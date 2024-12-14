@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nota Teste.md"
+                "file": "Daily Atividades/2024-12-15.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Nota Teste"
+              "title": "Sumário de 2024-12-15"
             }
           }
         ],
@@ -180,10 +180,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "84bbde375035a0a0",
+  "active": "a8852f399d424c2a",
   "lastOpenFiles": [
-    "Daily Atividades/2024-12-15.md",
     "Nota Teste.md",
+    "Daily Atividades/2024-12-15.md",
     "New folder",
     "Daily Atividades/2024-12-14.md",
     "Conceitos/Versionamento/Repositório remoto.md",
