@@ -1,0 +1,3 @@
+O **IP(Internet Protocol)** é um protocolo que funciona como o "endereço" na internet, permitindo que dispositivos se encontrem e se comuniquem.
+- Cada dispositivo conectado à rede recebe um endereço de IP único, que funciona como o endereço de uma casa, permitindo identificar quem envia e recebe os dados.
+- O IP guia os dados pelo caminho mais eficiente através de diferentes redes, até chegar ao destino correto.

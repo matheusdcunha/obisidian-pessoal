@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "51e1cb9f8826d3fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f1d84886fe52683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8852f399d424c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Atividades/2024-12-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-15"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0b889f25ee65d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "b527c110c75521b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84bbde375035a0a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "037a27aa99943c97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c05f610016f6b2fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b357329b7e74eb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1442117a8ec02a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b362a0e995e61a44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Atividades/2024-12-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 2024-12-12"
+            }
+          },
+          {
+            "id": "e58143f7a9f5cd44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "b199e64fcacac292",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f3dfa8a2e053efb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Atividades/2024-12-15.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 2024-12-15"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "eeb9104c06cbc753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a6f9f7f1514732",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "a8852f399d424c2a",
+  "lastOpenFiles": [
+    "New folder",
+    "Daily Atividades/2024-12-14.md",
+    "Daily Atividades/2024-12-15.md",
+    "Conceitos/Versionamento/Repositório remoto.md",
+    "Conceitos/Versionamento/Git.md",
+    "Daily Atividades/2024-12-12.md",
+    "Imagens/Versionamento_antigo.png",
+    "Daily Atividades/2024-12-13.md",
+    "RocketSeat",
+    "Daily Atividades/2024-12-11.md",
+    "Daily Atividades",
+    "Imagens/Pasted image 20241211200751.png",
+    "Sem título.md",
+    "Imagens",
+    "Técnicas para Estudo/Active Recall.md",
+    "Conceitos/Versionamento",
+    "Conceitos/WEB/Protocolos.md",
+    "Conceitos/WEB/IP.md",
+    "Conceitos/WEB/HTTP.md",
+    "Conceitos/WEB/TCP.md",
+    "Técnicas para Estudo",
+    "Conceitos/WEB/UDP.md",
+    "Conceitos/WEB/Serviços Web.md",
+    "Conceitos/Sem título.md",
+    "Conceitos/WEB",
+    "Welcome.md",
+    "Conceitos"
+  ]
+}
