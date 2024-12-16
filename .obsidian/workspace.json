@@ -177,8 +177,8 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a8852f399d424c2a",
