@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7b357329b7e74eb1",
@@ -176,23 +177,23 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a8852f399d424c2a",
   "lastOpenFiles": [
     "Daily Atividades/2024-12-16.md",
-    "Daily Atividades/2024-12-15.md",
     "Daily Atividades/2024-12-17.md",
+    "Daily Atividades/2024-12-15.md",
     "Daily Atividades/2024-12-14.md",
-    "Daily Atividades/2024-12-13.md",
-    "Daily Atividades/2024-12-12.md",
     "Nota Teste.md",
     "New folder",
     "Conceitos/Versionamento/Repositório remoto.md",
     "Conceitos/Versionamento/Git.md",
+    "Daily Atividades/2024-12-12.md",
     "Imagens/Versionamento_antigo.png",
+    "Daily Atividades/2024-12-13.md",
     "RocketSeat",
     "Daily Atividades/2024-12-11.md",
     "Daily Atividades",
